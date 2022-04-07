@@ -1,7 +1,7 @@
 print("- - - - - - - - - - - ")
 print("-   Payment method   -")
 print("- - - - - - - - - - - ")
-print("You can pay with Visa, PayPal or Paysafecard, what you prefer?:")
+print("You can pay with Visa, PayPal, Paysafecard, Mastercard, BTC or Apple Pay, what you prefer?:")
 which =input("1- PayPal / 2- Visa / 3- Paysafecard / 4- Mastercard / 5- Bitcoin / 6- Apple Pay / 7- Exit!: ")
 if which == "1":
     print("Okey, now tell me your Email and your password")
